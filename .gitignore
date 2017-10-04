@@ -1,0 +1,6 @@
+node_modules
+*.log
+*.map
+*.d.ts
+*.DS_Store
+typings
